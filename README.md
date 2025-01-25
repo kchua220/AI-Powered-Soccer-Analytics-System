@@ -49,12 +49,13 @@ The project utilized a custom-trained YOLOv8 model, fine-tuned with PyTorch, to 
 
 ### Languages, Libraries & Framworks
 - Python
-- ultralytics & YOLO
-- supervision
+- Ultralytics YOLO
+- PyTorch
 - OpenCV
 - NumPy
 - Matplotlib
 - Pandas
+- Scikit-Learn
 
 -----------------------------------------------------------------------------------------------------------
 Thank you for taking the time to explore this project! ! Feel free to reach out if you have suggestions or feedback!
