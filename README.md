@@ -57,4 +57,4 @@ The project utilized a custom-trained YOLOv8 model, fine-tuned with PyTorch, to 
 - Pandas
 
 -----------------------------------------------------------------------------------------------------------
-Thank you for taking the time to explore this project! ! Feel free to reach out if you have suggestions or feedback! And special thanks to [Code In a Jiffy](https://www.youtube.com/@codeinajiffy) for the insightful tutorial and guidance during the development of this project. 
+Thank you for taking the time to explore this project! ! Feel free to reach out if you have suggestions or feedback!
